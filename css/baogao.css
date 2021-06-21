@@ -1,0 +1,44 @@
+body {
+    background-color:cornsilk;
+    text-align: center;
+  }
+  h2 {
+    color:black;
+  }
+  .haha {
+    margin-top: 100px;
+    color: chocolate;
+    font-size: 50px;
+  }
+
+  .example-1 {
+    width: 100%;
+    height: 200px;
+    background-color: powderblue;
+    text-align: center;
+  }
+  .example-2 {
+    width: 100%;
+    height: 200px;
+    background-color:darkcyan;
+    text-align: center;
+  }
+  .box1 {
+    height: 200px;
+    width: 200px;
+    background-color:#615200;
+    color: aliceblue;
+    border: 10px solid red;
+    padding: 25px;
+    margin: 25px;
+  }
+  .box2 {
+    height: 300px;
+    width: 300px;
+    background-color:#004d61;
+    color: aliceblue;
+    border: 10px solid blue;
+    padding: 25px;
+    margin: 25px;
+  }
+    
